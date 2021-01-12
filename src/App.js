@@ -15,11 +15,11 @@ function App() {
   return (
     <div className="App">
       {/* <Particles params={particles}  className="particles"/> */}
-      <div className="header">Heading </div>
+      <div className="header"><h1>combining opposites : normal & deaf</h1></div>
       <div className="about">About section</div>
-       <div className="inputField center pa4 br3 shadow-5">
-                  <input className = "f4 pa2  center"type="text" />
-                  <button className='grow f4 link ph3 pv2 dib white bg-light-purple mart3'>Detect</button>
+       <div className="inputField">
+                  <input type="text" placeholder="type text"></input>
+                  <button type="submit">DETECT</button>
        </div>
       <div className="images">Images Will appear here..!</div>
     </div>
