@@ -11,7 +11,7 @@ Using the alphabet in sign language is also called finger/Hand  spelling. It is 
 	Spelling out a person's name, before you get to know their personalized 'name sign'
 	Spelling out a place name or location before you get to know its designated sign
 # Why this :
-            When communicating with a Deaf person from another region (dialects and signs can be different, so being able to fingerspell is a great back-up)
+When communicating with a Deaf person from another region (dialects and signs can be different, so being able to fingerspell is a great back-up)
 
 ASL is a common sign language – though by far not the only one – for people who are d/Deaf or hard of hearing (deaf refers to the physical condition of deafness, while Deaf refers to belonging to the Deaf community). .
 ASL “entails five parameters: handshapes, palm orientation, location (space on the body, around the signer), movement and of course, facial expressions”
