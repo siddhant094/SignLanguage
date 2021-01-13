@@ -25,15 +25,15 @@ with idea to that we can make a project where we can initiate a helping hand to 
 Don’t think it's only useful to deaf but this project  could also be used by normal people who want to communicate with deafs or can try it where we can’t talk.
 
 #               Its just like we are giving them a “virtual ear” to communicate.
-                                                                                                                                                                                                                                                                                                                                                                        
+#
 # Contribution Page
 
 “Every drop matters & drip fills the Ocean”                                                                            
 Contribution of every member was important otherwise what this project is … it wouldn’t have been.                     
                                                                                              
-Animesh Yadav    -> Documentaion
-Arnav khare      -> JavaScript
-Arnav            -> Html & Css
-Siddhant Pandey  -> Html & Css
+Animesh Yadav    -> Documentaion                                                                                       
+Arnav khare      -> JavaScript                                                                                         
+Arnav            -> Html & Css                                                                                         
+Siddhant Pandey  -> Html & Css                                                                                         
 
 And a lot of discussions at different moments in making ok this project which remains uncounted :).
