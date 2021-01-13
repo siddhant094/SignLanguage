@@ -25,9 +25,7 @@ with idea to that we can make a project where we can initiate a helping hand to 
 Don’t think it's only useful to deaf but this project  could also be used by normal people who want to communicate with deafs or can try it where we can’t talk.
 
 #               Its just like we are giving them a “virtual ear” to communicate.
-
-
-
+                                                                                                                                                                                                                                                                                                                                                                        
 # Contribution Page
 
 “Every drop matters & drip fills the Ocean”                                                                            
