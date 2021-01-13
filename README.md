@@ -32,8 +32,8 @@ Don’t think it's only useful to deaf but this project  could also be used by n
 Contribution of every member was important otherwise what this project is … it wouldn’t have been.                     
                                                                                              
 Animesh Yadav    -> Documentaion                                                                                       
-Arnav khare      -> JavaScript                                                                                         
-Arnav            -> Html & Css                                                                                         
+Arnav Agrawal    -> Html & Css                                                                                         
+Arnav khare      -> JavaScript                                                                                       
 Siddhant Pandey  -> Html & Css                                                                                         
 
 And a lot of discussions at different moments in making ok this project which remains uncounted :).
