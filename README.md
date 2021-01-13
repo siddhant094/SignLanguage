@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+#                                           ABOUT Section
+#                       Combining Opposites : Helping Deaf to communicate.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+American Sign Language (ASL) is the primary language of the deaf community in North America(but not limited to those borders). It uses a combination of hand movements, facial expressions, and body posture.
 
-## Available Scripts
+The Alphabet in sign language is the starting point for anyone who wants to communicate with a Deaf person.
+There are more we can do with these sign language.
+We can communicate underwater/space/through glass/in noisy place(where we can’t speak/communicating)
 
-In the project directory, you can run:
+Using the alphabet in sign language is also called finger/Hand  spelling. It is commonly used in a few different situations, such as:
+	Spelling out a person's name, before you get to know their personalized 'name sign'
+	Spelling out a place name or location before you get to know its designated sign
+# Why this :
+            When communicating with a Deaf person from another region (dialects and signs can be different, so being able to fingerspell is a great back-up)
 
-### `npm start`
+ASL is a common sign language – though by far not the only one – for people who are d/Deaf or hard of hearing (deaf refers to the physical condition of deafness, while Deaf refers to belonging to the Deaf community). .
+ASL “entails five parameters: handshapes, palm orientation, location (space on the body, around the signer), movement and of course, facial expressions”
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Fact : About 15% of adults in America report hearing loss, and about 1 million use sign language to communicate.
+.
+# Justifying the topic relation to theme :
+we have got theme “connecting opposites “ so in this theam we came up
+with idea to that we can make a project where we can initiate a helping hand to deaf .
+Don’t think it's only useful to deaf but this project  could also be used by normal people who want to communicate with deafs or can try it where we can’t talk.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#               Its just like we are giving them a “virtual ear” to communicate.
