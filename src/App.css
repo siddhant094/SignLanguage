@@ -1,5 +1,7 @@
 body{
-  background-color: #E3B9BC;
+  background-image: url("mountain.jpg");
+  background-size: cover;
+  height: 100%;
 }
 
 .header {
@@ -7,12 +9,14 @@ body{
   height: 80px;
   background-color: #101010;
   color: white;
+  letter-spacing: 3px;
   font-family: rockwell;
   text-transform: uppercase;
   font-size: 15px;
   text-align: center;
   vertical-align: middle;
   display: inline-block;
+  margin: 0;
 }
 
 .header h1{
@@ -28,10 +32,12 @@ body{
   background-color: royalblue;
 }
 .about{
-  margin-top: 50px;
+  margin-top: 30px;
   border-width: 2px;
+  padding: 25px;
   border-style: solid;
   height: 220px;
+  margin-bottom: 30px;
   border-color: royalblue;
 }
 
@@ -40,15 +46,16 @@ body{
   align-items: center;
   margin-top: 50px;
   height: 80px;
-  margin: 0 auto;
+  padding: 25px;
 }
 
 .images {
   margin-top: 50px;
   border-width: 2px;
-  margin: 0 auto;
+  padding: 25px;
   border-style: solid;
   height: 200px;
+  margin-bottom: 50px;
   border-color: royalblue;
 }
 
@@ -71,3 +78,20 @@ body{
   margin: 0 auto;
 }
 
+.Content{
+  padding: 0 25px;
+}
+
+.footer{
+  border: aqua;
+  border-style: solid;
+  height: 50px;
+  padding: 25px;
+  text-align: center;
+  color: azure;
+  background-color: black;
+}
+
+#typewriter{
+  animation: animated-cursor 600ms infinite;
+}
