@@ -1,4 +1,4 @@
-#                                           ABOUT Section
+#                                      ABOUT Section
 #                       Combining Opposites : Helping Deaf to communicate.
 
 American Sign Language (ASL) is the primary language of the deaf community in North America(but not limited to those borders). It uses a combination of hand movements, facial expressions, and body posture.
