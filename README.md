@@ -7,8 +7,8 @@ The Alphabet in sign language is the starting point for anyone who wants to comm
 There are more we can do with these sign language.
 We can communicate underwater/space/through glass/in noisy place(where we can’t speak/communicating)
 
-Using the alphabet in sign language is also called finger/Hand  spelling. It is commonly used in a few different situations, such as:
-*Spelling out a person's name, before you get to know their personalized 'name sign'.
+Using the alphabet in sign language is also called finger/Hand  spelling. It is commonly used in a few different situations, such as:                                                                                                   
+*Spelling out a person's name, before you get to know their personalized 'name sign'.                                  
 *Spelling out a place name or location before you get to know its designated sign.
 
 # Why this :
