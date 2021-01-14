@@ -1,31 +1,16 @@
-#                                      ABOUT Section
 #                       Combining Opposites : Taking Deaf into conversation.
 
-American Sign Language (ASL) is the primary language of the deaf community in North America(but not limited to those borders). It uses a combination of hand movements, facial expressions, and body posture.
+## Setting up the bot
 
-The Alphabet in sign language is the starting point for anyone who wants to communicate with a Deaf person.
-There are more we can do with these sign language.
-We can communicate underwater/space/through glass/in noisy place(where we can’t speak/communicating)
+This bot is built on  [node.js](https://nodejs.org/en/). You will need at least node 12.xx.Check the version on your local machine by running 'node -v' on the terminal 
 
-Using the alphabet in sign language is also called finger/Hand  spelling. It is commonly used in a few different situations, such as:                                                                                                   
-*Spelling out a person's name, before you get to know their personalized 'name sign'.                                  
-*Spelling out a place name or location before you get to know its designated sign.
+### Build & Execute the bot
 
-# Why this :
-When communicating with a Deaf person from another region (dialects and signs can be different, so being able to fingerspell is a great back-up)
-
-ASL is a common sign language – though by far not the only one – for people who are d/Deaf or hard of hearing (deaf refers to the physical condition of deafness, while Deaf refers to belonging to the Deaf community). .
-ASL “entails five parameters: handshapes, palm orientation, location (space on the body, around the signer), movement and of course, facial expressions”
-
-Fact : About 15% of adults in America report hearing loss, and about 1 million use sign language to communicate.
-.
-# Justifying the topic relation to theme :
-we have got theme “connecting opposites “ so in this theam we came up
-with idea to that we can make a project where we can initiate a helping hand to deaf .
-Don’t think it's only useful to deaf but this project  could also be used by normal people who want to communicate with deafs or can try it where we can’t talk.
-
-#               Its just like we are giving them a “virtual ear” to communicate.
-#
+ Run following commands from terminal
+```bash
+    npm install
+    npm start
+```
 # Contribution Page
 
 “Every drop matters & drip fills the Ocean”                                                                            
