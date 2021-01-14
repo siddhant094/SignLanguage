@@ -2,7 +2,7 @@
 
 ## Installation 
 
-This bot is built on  [node.js](https://nodejs.org/en/). You will need at least node 12.xx.Check the version on your local machine by running 'node -v' on the terminal 
+This Website is built on [React.js](https://reactjs.org/). 
 
 ###  Running up the Website
 
