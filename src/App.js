@@ -3,15 +3,17 @@ import Particles from 'react-particles-js';
 import Images from './Components/images.js'
 import './App.css';
 
+import heartImg from '../src/heart.png';
+
 const inputText = document.getElementsByClassName('inputValue');
 
 const particlesOption = {
-  particles:{
-    number:{
-      value:50,
-      density:{
-        enable:true,
-        value_area:700
+  particles: {
+    number: {
+      value: 50,
+      density: {
+        enable: true,
+        value_area: 700
       }
     }
   }
@@ -21,19 +23,19 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      input : '',
-      final : '',
+      input: '',
+      final: '',
     }
-   }
+  }
 
-   submitValue = (e) => {
-      this.setState({
-        input:e.target.value,
-      })
-   }
-   onSubmitValue = (e) => {
+  submitValue = (e) => {
     this.setState({
-      final:this.state.input
+      input: e.target.value,
+    })
+  }
+  onSubmitValue = (e) => {
+    this.setState({
+      final: this.state.input
     })
   }
   resetValue = () => {
@@ -43,28 +45,28 @@ class App extends Component {
     })
     document.getElementsByClassName('inputValue')[0].value = ''
   }
-    enterKey = (e) => {
-      if(e.keyCode === 13)
-      {
-        this.onSubmitValue()
-      }
+  enterKey = (e) => {
+    if (e.keyCode === 13) {
+      this.onSubmitValue()
     }
-  render(){
-  return (
-    <div className="App">
-       <Particles className="particles"
-                params={particlesOption}/>
-      <div className="header"><h1>combining opposites : normal & deaf</h1></div>
-      <div className="Content">
-        <div className="about"><span id="typewriter">
-        American Sign Language (ASL) is the primary language of the deaf community in North America(but not limited to those borders). It uses a combination of hand movements, facial expressions, and body posture.<br></br><br></br>
+  }
+  render() {
+    return (
+      <div className="App">
+        <Particles className="particles"
+          params={particlesOption} />
+        <div className="relative">
+          <div className="header"><h1>Communicating in a new way</h1></div>
+          <div className="Content">
+            <div className="about"><span id="typewriter">
+              American Sign Language (ASL) is the primary language of the deaf community in North America(but not limited to those borders). It uses a combination of hand movements, facial expressions, and body posture.<br></br><br></br>
 
         The Alphabet in sign language is the starting point for anyone who wants to communicate with a Deaf person.
         There are more we can do with these sign language.
         We can communicate underwater/space/through glass/in noisy place(where we can’t speak/communicating)<br></br><br></br>
 
-        Using the alphabet in sign language is also called finger/Hand  spelling. It is commonly used in a few different situations, such as:                                                                                                   
-        *Spelling out a person's name, before you get to know their personalized 'name sign'.                                  
+        Using the alphabet in sign language is also called finger/Hand  spelling. It is commonly used in a few different situations, such as:
+        *Spelling out a person's name, before you get to know their personalized 'name sign'.
         *Spelling out a place name or location before you get to know its designated sign.<br></br><br></br>
 
         Why this :<br></br>
@@ -75,19 +77,21 @@ class App extends Component {
 
         Fact : About 15% of adults in America report hearing loss, and about 1 million use sign language to communicate.
        </span>
-       </div>
-        <div className="inputField ">
-        <input type="text" placeholder="Enter Text to translate" onChange = {this.submitValue} className="inputValue" contenteditable="true" onKeyDown={this.enterKey}></input>
-                    <button type="submit" onClick = {this.onSubmitValue} onKeyPress={this.enterKey} className="button1" contenteditable="true">Translate</button>
-                    <button onClick = {this.resetValue} className="button1" contenteditable="true">Reset </button>
-        </div>
-        <div className="images">
-          <Images text={this.state.final}/>
+            </div>
+            <div className="inputField ">
+              <input type="text" placeholder="Enter Text to translate" onChange={this.submitValue} className="inputValue" contenteditable="true" onKeyDown={this.enterKey}></input>
+              <button type="submit" onClick={this.onSubmitValue} onKeyPress={this.enterKey} className="button1" contenteditable="true">TRANSLATE</button>
+              <button onClick={this.resetValue} className="button1" contenteditable="true">RESET</button>
+            </div>
+            <div className="images">
+              <Images text={this.state.final} />
+            </div>
+          </div>
+          <div className="footer">MADE WITH <img className="heart" src={heartImg} alt='heartimg' />  BY RHAPSODIC ROLLS</div>
         </div>
       </div>
-      <div className="footer">Made with <i className="fas fa-heart text-danger" aria-hidden="true"></i></div>
-    </div>
-  );
-}}
+    );
+  }
+}
 
 export default App;
