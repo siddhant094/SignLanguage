@@ -1,10 +1,10 @@
 #                       Combining Opposites : Taking Deaf into conversation.
 
-## Setting up the bot
+## Installation 
 
 This bot is built on  [node.js](https://nodejs.org/en/). You will need at least node 12.xx.Check the version on your local machine by running 'node -v' on the terminal 
 
-### Build & Execute the bot
+###  Running up the Website
 
  Run following commands from terminal
 ```bash
